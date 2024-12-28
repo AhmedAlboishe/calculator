@@ -2,6 +2,12 @@
 
 Welcome to the Calculator Flutter project!
 
+## Screenshots 📱
+
+| Home Screen|
+|----------------------|
+|<p align="center">  <img src="https://github.com/user-attachments/assets/954d9985-3742-43ce-8fa2-87fdfe652577" width="40%" height="40%" align=”middle”></p> | 
+
 ## Overview
 
 This project serves as a foundation for building a Flutter application. It includes essential components and structure to help you get started quickly.
