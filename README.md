@@ -2,15 +2,16 @@
 
 Welcome to the Calculator Flutter project!
 
+## Overview
+
+This project serves as a foundation for building a Flutter application. It includes essential components and structure to help you get started quickly.
+
 ## Screenshots 📱
 
 | Home Screen|
 |----------------------|
 |<p align="center">  <img src="https://github.com/user-attachments/assets/954d9985-3742-43ce-8fa2-87fdfe652577" width="40%" height="40%" align=”middle”></p> | 
 
-## Overview
-
-This project serves as a foundation for building a Flutter application. It includes essential components and structure to help you get started quickly.
 
 ## Features
 
@@ -24,12 +25,26 @@ This project is ideal for developers looking to learn Flutter or build a simple 
 
 ## Getting Started
 
-To get started with this project, follow these steps:
+1. Clone the repository:
 
-1. **Clone the repository**: `git clone https://github.com/AhmedAlboishe/calculator.git`
-2. **Navigate to the project directory**: `cd calculator`
-3. **Install dependencies**: `flutter pub get`
-4. **Run the app**: `flutter run`
+   ```bash
+   git clone https://github.com/AhmedAlboishe/calculator.git
+   ```
+2. Navigate to the project directory:
+
+   ```bash
+   cd calculator
+   ```
+3. Install the dependencies:
+
+   ```bash
+   flutter pub get
+   ```
+4. Run the application:
+
+   ```bash
+   flutter run
+   ```
 
 ## Support
 
